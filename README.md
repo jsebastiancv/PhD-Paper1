@@ -1,11 +1,6 @@
 # PhD-Paper1
 List of authors:
-Sebastian Cervantes
-Yuri Shprits
-Nikita Aseev
-Alexander Drozdov
-Angelica Castillo
-Claudia Stolle
+Sebastian Cervantes ,Yuri Shprits, Nikita Aseev, Alexander Drozdov, Angelica Castillo, Claudia Stolle
 
 Cervantes_et_al-2020a.pdf is the manuscript in its official accepted form.
 
