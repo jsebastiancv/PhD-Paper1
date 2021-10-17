@@ -1,4 +1,3 @@
-# PhD-Paper1
 List of authors:
 Sebastian Cervantes ,Yuri Shprits, Nikita Aseev, Alexander Drozdov, Angelica Castillo, Claudia Stolle
 
